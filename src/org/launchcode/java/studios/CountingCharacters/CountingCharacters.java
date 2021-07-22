@@ -22,3 +22,6 @@ public class CountingCharacters {
         }
     }
 }
+
+
+// empty comment to make it so I can commit again
